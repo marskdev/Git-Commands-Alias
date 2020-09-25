@@ -1,7 +1,5 @@
 # Git - Comandos y Alias
 
-[TOCM]
-
 ## Comandos
 #### Basico
 `git log --all --oneline --decorate --graph`: Muestra la historia y una grafica visual para ver el curso que ha tomado el repositorio. 
